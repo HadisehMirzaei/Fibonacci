@@ -1,4 +1,4 @@
-"""created by Hadise Mirzaei"""
+"""Fibonacci"""
 
 
 def fibonacci(n):
